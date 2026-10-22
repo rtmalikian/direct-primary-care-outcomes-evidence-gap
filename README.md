@@ -1,3 +1,13 @@
+# 📄 Download the full article — PDF
+
+[![Download PDF](https://img.shields.io/badge/Download-Full%20Article%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/rtmalikian/direct-primary-care-outcomes-evidence-gap/raw/main/article.pdf)
+
+### 👉 [**Click here to download the PDF**](https://github.com/rtmalikian/direct-primary-care-outcomes-evidence-gap/raw/main/article.pdf)
+
+*One click — no sign-up, no paywall. The full text is also embedded in this README below.*
+
+---
+
 # Direct Primary Care Outcomes: 83% Growth, 38 Papers, Zero Randomised Trials — An Evidence Commentary
 
 **Direct primary care (DPC) practice sites grew 83.1% between 2018 and 2023 (1,658 to 3,036 sites, Zhu et al., *Health Affairs* 2025). Its peer-reviewed outcomes literature for 2021–2026 totals 38 PubMed papers, about 14 of which study the US model directly. There is no randomised trial of direct primary care.**
