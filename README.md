@@ -20,7 +20,7 @@ This repository holds the full text of a scholarly commentary by Raphael Malikia
 
 ## How to cite
 
-Malikian R. *Eighty-Three Percent Growth, Thirty-Eight Papers: Direct Primary Care and the Outcomes Accounting It Owes.* Commentary manuscript, October 2026. GitHub: https://github.com/rtmalikian/direct-primary-care-outcomes-evidence-gap
+Malikian R. *Eighty-Three Percent Growth, Thirty-Eight Papers: Direct Primary Care and the Outcomes Accounting It Owes.* Commentary manuscript, October 2026. GitHub: https://github.com/rtmalikian/direct-primary-care-outcomes-evidence-gap — Preprint DOI: https://doi.org/10.5281/zenodo.23562906
 
 Licence: CC BY 4.0 (see `LICENSE`).
 
